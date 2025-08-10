@@ -1,3 +1,10 @@
+# MOVED TO HERE: 
+https://github.com/pkgforge-dev/Anylinux-AppImages/blob/main/useful-tools/fix-namespaces.md
+
+https://github.com/pkgforge-dev/Anylinux-AppImages/blob/main/useful-tools/fix-namespaces.hook
+
+---
+
 # fix-ubuntu-nonsense
 
 Have your application quickly remove ubuntu namespaces restriction using polkit in a user friendly way.
